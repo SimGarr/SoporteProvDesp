@@ -14,6 +14,6 @@ public class SwaggerConfig {
                 .info(new Info()
                         .title("API de Soporte")
                         .version("1.0")
-                        .description("Documentación de la API de Soporte"));
+                        .description("Documentacióon de la API de Soporte"));
     }
 }
